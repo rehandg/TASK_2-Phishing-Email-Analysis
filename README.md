@@ -5,14 +5,15 @@ This Task consists of a sample phishing email analysis and understand how this e
 Steps Performed in Order:
 
 #1.Screenshots/Images Collected: here i took screenshots of a sample email from a website, there are two images of the whole email.
-ABOUT THE EMAIL: This is a sample Phishing email , Here an anonymous sender is claiming to be from Netflix statign that reciver is having there "Password" expired in 3 days.the link given states "RESET PASSWORD" and in the end concludes the message with a threating tone.
+ABOUT THE EMAIL: This is a sample Phishing email , Here an anonymous sender is claiming to be from Netflix stating that receiver is having there "Password" expired in 3 days.the link given states "RESET PASSWORD" and in the end concludes the message with a threatening tone.
 
 
 
 
-#2.Header Analysis: I used the Google message email header reader for analysing the emails header and find the servers its passed through which reveales that the email is fake.
+#2.Header Analysis: I used the Google message email header reader for analyzing the emails header and find the servers its passed through which reveales that the email is fake.
 
 The EMAIL HEADER that i used:
+
 Delivered-To: john.doe@mybusiness.com
 Received: by mail.mybusiness.com with SMTP id x123456abc;
         Mon, 27 May 2025 19:45:00 +0000 (UTC)
@@ -37,7 +38,7 @@ i have uploaded a PNG and txt file of the header and the result of its analysis.
 IF we go along with the flow and enter the account details then our account will be stolen.
 
 
-#5.Grammar errors and Threating TONE: the email has various mistakes and errors in sentences and address everything in a Threatning manner.
+#5.Grammar errors and Threatening TONE: the email has various mistakes and errors in sentences and address everything in a Threatening manner.
 
 "Your password is due to expire in 3 days."
 
@@ -46,13 +47,20 @@ from the email.
 All the given SUS traits are:
 
 *Spoofing Sender's Address.
+
 *Grammar and spelling mistakes.
-*threatning Tone.
+
+*threatening Tone.
+
 *Suspicious link leading to sus WEB Page upon opening
+
 *Email Header analysis revealing sender and confirming that it's fake
 
 Conclsion:
 all the step by step analysis of the email concludes that the email is a threat and needs to be reported.
+
+
+#all the emages and txt flies are uploaded.
 
 
 
